@@ -1,0 +1,5 @@
+### Problem-3: Validate JSON Against Schema
+Validate a dynamic JSON input against a predefined schema before database insertion.
+    
+
+-   **Hint**: Use `jsonschema` library or manually check key types.
